@@ -1,4 +1,4 @@
-# BloodCoin
+# GenoCoin
 ## For all Debts, Public and Genetic
 
 All contracts are signed with a DNA-based cryptosystem.
