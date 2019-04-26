@@ -11,6 +11,9 @@ Transactions are cryptographically secured by an enhanced Blockchain algorithm c
 
 A system for eugenecists and bankers alike.
 
+## References
+https://wiki.p2pfoundation.net/P2P_Energy_Economy
+
 ----
 
-_Incubated by Usury Labs, a division of Usury Capital._
+_Incubated by Abusury Labs, a division of Usury Capital._
